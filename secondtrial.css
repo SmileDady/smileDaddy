@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.header{
+    background: #e97070 ;
+    height: 200px;
+    width: 30px auto;
+}
+.insideheader{
+    padding: 10px;
+}
+table,thead,tbody, tr,th,td{
+border: #ffffff solid 1px;
+}
+tbody, thead{
+    color: aqua;
+    padding: 15px;
+}
+th,td{
+    padding: 10px;
+    text-align: left;
+}

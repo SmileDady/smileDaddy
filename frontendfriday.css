@@ -1,0 +1,71 @@
+  /* *{
+            background-blend-mode: rgb(153, 84, 84);
+        } */
+  .myborder {
+      border: 1px black solid;
+  }
+
+  .lil {
+      border: none; 
+      width: 100%;
+      height: 40%;
+      padding-bottom: 0px;
+  }
+
+  .ftty {
+      border: none;
+      background-color: #f1eeee;
+  }
+
+  .badge {
+      border-radius: 90%;
+      width: 80pt;
+      font-size: large;
+      font-weight: bolder;
+
+  }
+
+  .bg-muted {
+      background-color: #fdfcfc;
+  }
+
+  .form-control {
+      border: 2px black solid;
+      border-radius: 20px;
+      width: 100%;
+      font-style: italic;
+  }
+
+  .button-control {
+      border: none;
+      border-radius: 20px;
+      width: 150%;
+      background-color: orange;
+      color: #fff;
+      font-size: medium;
+      font-style: italic;
+      height: 40px;
+
+  }
+
+  .hh {
+      font-size: xx-large;
+      font-weight: bolder;
+      color: orange;
+  }
+
+  .wwww {
+      font-size: xx-large;
+      font-weight: bolder;
+      padding-top: 0%;
+  }
+
+  .llv {
+      font-size: large;
+      font-weight: bolder;
+  }
+
+  .bold {
+      font-size: larger;
+      font-weight: bold;
+  }

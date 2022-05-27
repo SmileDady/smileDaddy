@@ -1,0 +1,24 @@
+.mybg{
+    background-color: white;
+    color: #fff;
+}
+.mytext{
+    color:black
+}
+.myradius{
+    border-radius: 15px 0 0 15px;
+}
+.radius{
+   border-radius: 15px;
+}
+sup{
+    color: red;
+    font-size: 12px;
+}
+
+@media screen and (max-width: 650) {
+    input {
+        width: 100%;
+        margin-left: 20px;
+    }
+}

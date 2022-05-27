@@ -1,0 +1,62 @@
+html,
+body {
+  height: 100%;
+  background-color: green;
+}
+
+body {
+  display: flex;
+  -ms-flex-align: center;
+  -ms-flex-pack: center;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  }
+
+  form{
+    /* border: 1px black solid; */
+    box-shadow: 9px 9px 20px rgba(24, 24, 24, 0.459) ;
+    width: 250pt;
+    height: 250pt;
+    background-color: #ffff;
+    padding: 60px;
+  }
+
+  .pt-5{
+    margin-top: 20pt;
+  }
+   input{
+    height: 30pt;
+    width: 250pt;
+    background-color: beige;
+    border: none;
+    font-size: large;
+    }
+  .pt-4{
+    margin-top: 20pt;
+  }
+  .pt-3{
+    margin-top: 20pt;
+  }
+  .pt-2{
+    margin-top: 20pt;
+  }
+ #see{
+   background-color: #17a117;
+   color: #fff;
+   border: none;
+   height: 50pt;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: larger;
+ }
+ p{
+   text-align: center;
+ }
+ .last{
+   font-size: large;
+   text-decoration: none;
+   color: green;
+    }
+ 
+ 

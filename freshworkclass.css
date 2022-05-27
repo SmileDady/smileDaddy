@@ -1,0 +1,17 @@
+.pt-1{
+    border: 1px black solid;
+    padding: 20px;
+    text-align: center;
+    background-color: green;
+    color: #fff;
+    border: none;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.pt-2{
+    margin: 10px;
+    font-size: large;
+}
+th{
+    border: 1px black solid;
+}

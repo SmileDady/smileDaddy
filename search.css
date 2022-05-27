@@ -1,0 +1,23 @@
+.bgd{
+    background-color: #21d2df23;
+}
+.myborder{
+    border: 1px #000000 solid;
+}
+.ft{
+    border: none;
+    border-radius: 50px;
+    background-color: #16c216;
+    width: 300pt;
+    padding: 4pt;
+    color: #fff;
+    font-size: smaller;
+}
+.mrradius{
+    border-radius: 20pt;
+}
+.postioningfa{
+    position: relative;
+    right: 840pt;
+    top: 8pt;
+}

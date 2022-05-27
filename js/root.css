@@ -1,0 +1,22 @@
+:root{
+--color-primary:#f37878;
+--my-border:1px solid var(--color-primary);
+--primary-bg-color:#edebeb;
+}
+*{
+    /* margin: 10px;
+    padding: 10px; */
+}
+body{
+    background: var(--primary-bg-color)
+}
+h2{
+    text-align: center;
+    background-color: blue;
+    padding: 10px 0px 10px 0px ;
+    margin: auto;
+    color: #edebeb;
+}
+.primary{
+    
+}

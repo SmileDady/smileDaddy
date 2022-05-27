@@ -1,0 +1,99 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+header, footer, section, nav, article{
+    display: block;
+}
+body h1, h2, h3, p, ul, li{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin:0 auto;
+    width: 800;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+header#banner{
+    width: 940px;
+}
+
+h1{
+    color: white;
+} 
+
+
+h2{
+    text-align: center;
+    color:black;
+}
+
+header#banner{
+    
+    text-align: center;
+    background:blue;
+    padding: 10px 5px 10px 5px;
+}
+
+footer{
+    float: left;
+    width:800px;
+    margin: 10px 0 0 0 auto;
+    background:rgb(115, 190, 100);
+    text-align: center;
+    padding: 10px 0 10px 0;
+    color:rgb(235, 229, 221)
+}
+
+footer p a{
+    color:brown;
+    text-decoration: none;
+    text-decoration: underline;
+}
+nav{
+    float:left;
+    margin: 0px 0px 0px 0px;
+    border: blue 0px solid;
+    background: rg   b(223, 240, 148);
+}
+
+nav ul{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+
+nav li a{
+    display:block;
+    padding: 10px 0 0 10px;
+    width: 150px;
+    color: rgb(255, 47, 47);
+    text-decoration: none;
+}
+
+nav li a:hover{
+    background: orange;
+}
+
+section#wrapper{
+    float: left;
+    width: 500px;
+    background: yellow;
+    height: 200px;
+}
+article{
+    margin: 10px;
+}
+articler header h2{
+    text-transform: capitalize;
+    color: aqua;
+    font-weight: bolder;
+}
+section p{
+    margin: 10px;
+    font-size: 15px;
+    color: black;
+}
+
